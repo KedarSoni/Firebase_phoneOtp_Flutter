@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359935458516",
+    "project_id": "loginkedarfire",
+    "storage_bucket": "loginkedarfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359935458516:android:7cfaa298914a217f490f41",
+        "android_client_info": {
+          "package_name": "com.app.loginkedarfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359935458516-lfa5gp9418v6bbcdgnght779aje8jegj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.loginkedarfire",
+            "certificate_hash": "d17a83e8f171ffba52b8ac48fd5d76d471b0dff4"
+          }
+        },
+        {
+          "client_id": "359935458516-m3v7akdbecsecho86fl4os1d8mfuj9pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmE0ukcB9CLvKG4yIB960bQl6YVxknCcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359935458516-m3v7akdbecsecho86fl4os1d8mfuj9pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
